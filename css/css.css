@@ -1,0 +1,22 @@
+#press:hover{
+    background-color:rgb(212, 52, 52);
+     color:rgb(210, 203, 203) !important;
+    
+   
+}
+
+main{
+    background-image: linear-gradient(rgb(0, 0, 0,0.3),rgb(0, 0, 0,0.3) ), url(../img/spooky-halloween-eerie-vibes-mysterious-and-black-wall-background-with-concrete-dust-horror-cement-texture_9911726.jpg!w700wp);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+
+.creepster{
+     
+        font-family: "Creepster", system-ui;
+       
+     
+      
+}
